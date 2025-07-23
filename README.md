@@ -14,8 +14,8 @@ A high-performance desktop application for comparing .fac files and generating d
 ## 📥 Quick Start
 
 ### Option 1: Download Executable (No Python Required)
-1. Go to [Releases](https://github.com/CapnBloodBeard/FAC-File-Summary-App/releases)
-2. Download `gui_app.exe`
+1. Go to [Releases](https://github.com/Pulkit-Shandilya/FAC-File-Summary-App/releases)
+2. Download `FAC-Excel-Summary-App.exe`
 3. Double-click to run - no installation needed!
 
 ## 🎯 How It Works
