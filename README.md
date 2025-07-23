@@ -1,6 +1,6 @@
 # Excel Summary Tool
 
-A high-performance desktop application for comparing .fac files and generating detailed Excel summaries of differences.
+A high-performance desktop application for comparing .fac files and generating detailed Excel summaries of differences. Made for **Actuaries**
 
 ## 🚀 Features
 
@@ -17,13 +17,6 @@ A high-performance desktop application for comparing .fac files and generating d
 1. Go to [Releases](https://github.com/CapnBloodBeard/FAC-File-Summary-App/releases)
 2. Download `gui_app.exe`
 3. Double-click to run - no installation needed!
-
-### Option 2: Run from Source
-```bash
-git clone https://github.com/CapnBloodBeard/excel-summary-script.git
-cd excel-summary-script
-python gui_app.py
-```
 
 ## 🎯 How It Works
 
