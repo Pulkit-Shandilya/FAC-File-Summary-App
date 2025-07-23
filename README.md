@@ -14,7 +14,7 @@ A high-performance desktop application for comparing .fac files and generating d
 ## 📥 Quick Start
 
 ### Option 1: Download Executable (No Python Required)
-1. Go to [Releases](https://github.com/CapnBloodBeard/excel-summary-script/releases)
+1. Go to [Releases](https://github.com/CapnBloodBeard/FAC-File-Summary-App/releases)
 2. Download `gui_app.exe`
 3. Double-click to run - no installation needed!
 
