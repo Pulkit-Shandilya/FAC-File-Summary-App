@@ -58,7 +58,6 @@ The desktop application provides:
 - **Smart Caching** - Reduces redundant calculations
 
 
-```
 
 ## 📄 License
 
